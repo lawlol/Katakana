@@ -4,7 +4,7 @@ Katakana is a powerful open-source OSINT (Open Source Intelligence) tool designe
 
 ## Additional Information
 ```
-User Interface Release: Once the repo reaches 15 stars, a user interface will be released.
+Next Update: Once the repo reaches 15 stars, a user interface will be released, along with new features and updates to improve the existing ones.
 ```
 
 ## Examples/How To Use
